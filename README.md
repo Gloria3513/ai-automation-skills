@@ -17,11 +17,11 @@ AI에게 일을 맡길 때 쓰는 **예시 레시피(스킬)** 와 **연습 파�
 | `skills/file-renamer` | 파일 이름을 `날짜_내용_번호`로 통일 | 3회차 |
 | `skills/receipt-to-table` | 영수증·명단·PDF → 표(CSV) | 3회차 |
 | `skills/doc-summary-report` | 여러 문서 → 한 장 요약·보고서 초안 | 4회차 |
-| `skills/weekly-report` | 이번 주 폴더 → 주간 보고 초안 | 8회차 |
-| `skills/photo-blog-draft` | 사진 묶음 → 블로그 글 초안 (올리기는 사람이) | 8회차 |
+| `skills/weekly-report` | 이번 주 폴더 → 주간 보고 초안 | 7회차 |
+| `skills/photo-blog-draft` | 사진 묶음 → 블로그 글 초안 (올리기는 사람이) | 7회차 |
 | `rules-example/AGENTS.md` | AI와의 약속 다섯 줄 | 2회차부터 매번 |
 | `practice-files/` | 연습용 가상 명단·회의록 (실제 개인정보 아님) | 3~4회차 |
-| `docs/compare-tools.md` | 도구별 스킬·연결(MCP)·예약 비교표 | 7~8회차 |
+| `docs/compare-tools.md` | 도구별 스킬·연결(MCP)·예약 비교표 | 6~7회차 |
 
 ## 3. 스킬이 뭐예요?
 
